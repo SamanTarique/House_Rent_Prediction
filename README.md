@@ -68,11 +68,11 @@ The pipeline covers everything from raw data loading to model evaluation — fol
 | Linear Regression | 0.3393 | ₹14,800 |
  
 ### Actual vs Predicted — Best Model
-![Dataset](actual_vs_predicted.png)
- 
+![Actual vs Predicted](Dataset/actual_vs_predicted.png)
+
 ### Feature Importance
-![Dataset](feature_importance.png)
- 
+![Feature Importance](Dataset/feature_importance.png)
+
 ---
  | Library | Use |
 |---------|-----|
