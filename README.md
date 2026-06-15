@@ -46,7 +46,7 @@ The pipeline covers everything from raw data loading to model evaluation — fol
  
 ---
  
-## 🤖 Models Trained
+##  Models Trained
  
 - Linear Regression
 - Decision Tree Regressor
@@ -61,7 +61,7 @@ The pipeline covers everything from raw data loading to model evaluation — fol
  
 | Model | R² Score | MAE (₹) |
 |-------|----------|---------|
-| **GB Tuned** ✅ | **0.8361** | **₹5,357** |
+| **GB Tuned**  | **0.8361** | **₹5,357** |
 | Gradient Boosting | 0.8313 | ₹5,520 |
 | Random Forest | 0.8163 | ₹5,890 |
 | Decision Tree | 0.7348 | ₹7,200 |
