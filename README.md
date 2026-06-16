@@ -59,7 +59,7 @@ The pipeline covers everything from raw data loading to model evaluation — fol
  
 ##  Results
  
-| Model | R² Score | MAE (₹) |
+| Model | R² Score | MAE  |
 |-------|----------|---------|
 | **GB Tuned**  | **0.8361** | **₹5,357** |
 | Gradient Boosting | 0.8313 | ₹5,520 |
